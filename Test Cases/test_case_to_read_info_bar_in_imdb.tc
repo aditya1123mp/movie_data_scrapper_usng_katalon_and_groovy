@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_read_info_bar_in_imdb</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6c04648-1d72-404b-81d7-7d5921e2e7a7</testCaseGuid>
+</TestCaseEntity>

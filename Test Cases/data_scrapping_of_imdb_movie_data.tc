@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>data_scrapping_of_imdb_movie_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd81c563-bb98-4cb4-9eb4-12c7d6a21fd4</testCaseGuid>
+</TestCaseEntity>

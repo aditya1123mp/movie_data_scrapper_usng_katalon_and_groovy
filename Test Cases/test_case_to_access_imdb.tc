@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_access_imdb</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0d5fb77-4b57-4e30-8006-587c01e42ba0</testCaseGuid>
+</TestCaseEntity>
